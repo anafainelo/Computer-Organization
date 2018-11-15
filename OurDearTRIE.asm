@@ -2,7 +2,7 @@
 #
 #	Carolina Arenas Okawa - 10258876 ___________________ MAIN
 #	Bruno Del Monde - 10262818__________________________ IMPRESSAO
-#	Ana Carolina Fainelo de Oliveira - 10284542_________ REMOCAO
+#	Ana Carolina Fainelo de Oliveira - 10284542_________ REMOCAO/MAIN
 #	Lui Franco Rocha - 10295558_________________________ INSERCAO/BUSCA
 #
 # OBS:  Utilizamos o Mars para fazer o trabalho
